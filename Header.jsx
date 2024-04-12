@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import Login from './Login';
+import login from './login';
 
 
 const Header = () => {
